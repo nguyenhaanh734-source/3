@@ -1,0 +1,40 @@
+body{
+    background-color: azure;
+    background-image: url(https://i.pinimg.com/1200x/70/03/54/700354eefb3154b646e3d7d9d16b7c39.jpg);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    margin:5px;
+    font-size:16px;
+}
+p{
+    font-family:"Playwrite México Guides" ;
+    font-style:italic
+}
+div{
+    border-style:solid;
+    padding: 5px
+}
+h1{
+    border-top-style:dotted
+}
+.cox{
+    width:300px;
+    height:100px;
+    text-align:center;
+    font-size:1em;
+}
+.container{
+    display:flex;
+    justify-content:center;
+}
+.k{
+    width:400px;
+    height:400px;
+    text-align:center;
+    font-size:1em;
+}
+.two{
+    display:flex;
+    flex-direction:row;
+}
